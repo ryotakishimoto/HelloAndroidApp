@@ -9,11 +9,12 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    tools:context="jp.techacademy.taro.kirameki.myapplication.MainActivity">
+    tools:context="jp.techacademy.ryota.kishimoto.myapplication.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
-   
+        android:text="Hello Android!"
+        android:textSize="40sp" />
+
 </LinearLayout>
